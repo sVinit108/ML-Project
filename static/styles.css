@@ -8,18 +8,18 @@ body, h1, form {
 
 
 body {
-    background-color: #f1f1f1;
+    background-color: #f1f1f13b;
     font-family: Arial, sans-serif;
 }
 
 
 .login {
     max-width: 400px;
-    margin:  auto;
+    margin:  25px auto;
     padding: 20px;
-    background-color: #fff;
-    border-radius: 4px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #b8b4b44e;
+    border-radius: 2px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.314);
 }
 
 h1 {
@@ -46,7 +46,7 @@ input[type="number"] {
     width: 100%;
     padding: 10px;
     border-radius: 4px;
-    border: 1px solid #ccc;
+    border: 1px solid #cccccc0c;
 }
 
 input[type="submit"] {
