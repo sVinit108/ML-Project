@@ -9,11 +9,6 @@ application=Flask(__name__)
 
 app=application
 
-# Route for a home page
-# @app.route('/')
-# def index():
-#     return render_template('index.html') 
-
 @app.route('/',methods=['GET','POST'])
 def main():
     if request.method=='GET':
