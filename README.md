@@ -8,4 +8,5 @@
           2. Data Transformation <br>
           3. Model Creation, Training and Hyperparameter tuning <br>
 
-Docker image Link:- 
+Docker image Link:- docker pull vinit108/math-score-predictor:latest
+
